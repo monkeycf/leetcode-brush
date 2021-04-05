@@ -1,4 +1,5 @@
 // https://leetcode-cn.com/problems/search-insert-position/
+// 指数查找 + 二分查找
 
 function searchInsert(nums: number[], target: number): number {
   let find = 0; // 开始寻找初始值
